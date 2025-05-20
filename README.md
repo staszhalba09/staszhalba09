@@ -42,8 +42,8 @@ I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experienc
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianNavarro89&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianNavarro89&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=staszhalba09&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staszhalba09&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experienc
 
 ## 📬 Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CristianNavarro89)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/staszhalba09)
 
 ---
 
