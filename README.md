@@ -1,65 +1,23 @@
-# 👨‍💻 Stas Zhalba – Full-Stack Developer | Blockchain | AI Expert
+# 👾 Full Stack | Blockchain | AI Developer  
 
-## 🚀 Welcome to My GitHub!
+### 🚀 From Code Newbie to Digital Alchemist  
 
-I'm a **Senior Full-Stack & Blockchain Developer** with **10+ years of experience** crafting secure, scalable, and high-performance decentralized applications. From DeFi protocols and NFT marketplaces to smart contracts and AI-integrated blockchain systems — I build the backbone of Web3.
+Once upon a time, a curious university student embarked on a quest to create the *perfect* gaming leaderboard for their dorm’s epic Mario Kart tournaments. What started as a small side project turned into a full-blown love affair with Full Stack development. It was love at first debug, and I haven’t looked back since.  
 
----
+Fast forward a few years, and along came **Blockchain**—the rebellious, decentralized younger sibling of the tech world. Intrigued by its promise of transparency and immutability, I plunged headfirst into the cryptographic rabbit hole. Writing smart contracts quickly became my favorite kind of wizardry, combining the thrill of tech with the elegance of math.  
 
-## 🔧 Tech Stack & Specialties
+And then, the age of **AI** dawned. As someone who believes technology should think as much as it works, I embraced the challenge of crafting intelligent systems. From chatbots that could crack the worst dad jokes to predictive algorithms that actually delivered, AI has been my latest playground of choice.  
 
-### 💻 Full-Stack Development
-- **Frontend**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
-- **Backend**: Node.js, PHP, Laravel, PHP Frameworks, Express, Django, NestJS, GraphQL, REST
-- **Databases**: PostgreSQL, MongoDB, Microsoft SQL Server
-- **Infrastructure**: AWS, Firebase, Docker, Kubernetes
+### 💡 Why I Love What I Do  
 
-### 🛠️ Blockchain Engineering
-- **Chains**: Ethereum, Solana, Polygon, Binance Smart Chain (BSC)
-- **Smart Contracts**: Solidity, Rust, WebAssembly (WASM)
-- **Tools**: Web3.js, Ethers.js, Moralis, Hardhat, Foundry
-- **Storage**: IPFS, Arweave, Filecoin
-- **Security**: Auditing, Gas Optimization, Automated Testing
+- **Full Stack**: It’s like playing architect—designing foundations, constructing walls, and shaping digital skylines.  
+- **Blockchain**: Who wouldn’t love being a wizard, wielding Solidity like a wand?  
+- **AI**: Teaching machines to think feels like training pets to do tricks—but cooler.  
 
-### 🧠 AI & Web3
-- AI-integrated fraud detection, predictive analytics for DeFi, and ML-enhanced smart contracts.
+### 🧩 A Decade of Problem-Solving  
 
-### ⚙️ DevOps & Productivity
-- CI/CD (GitHub Actions, CircleCI), Linting, Testing Suites, Git Workflow
+With over **10 years of experience** in Full Stack, Blockchain, and AI-powered web development, I’m still that university kid at heart—curious, creative, and eager to tackle the next big challenge.  
+
+Got a wild idea or a tricky code conundrum? Let’s build it, break it, and make it better—because tech should always be fun, and this story is far from over.  
 
 ---
-
-## 🌟 Highlight Projects
-
-- 🏦 **DeFi Protocol** – Staking, yield farming, governance on Ethereum & Polygon
-- 🖼️ **NFT Marketplace** – Full-stack solution with minting, auctions, and royalties
-- ⚡ **L2 Scaling Solution** – Reduced Ethereum gas fees by 70% with zk-rollups
-- 🗳️ **DAO System** – Smart contract-based voting and treasury control
-- 🤖 **AI + Web3 SaaS** – ML-powered analytics for on-chain activity
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=staszhalba09&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staszhalba09&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- Dive deeper into **ZKPs** & **Layer 2** technologies
-- Lead contributions to **open-source blockchain protocols**
-- Elevate smart contract security and performance standards
-
----
-
-## 📬 Let’s Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/staszhalba09)
-
----
-
-🔥 **Let’s build the future of Web3, one block at a time.**
